@@ -10,3 +10,6 @@ Soy Analista de Datos en formación, enfocado en transformar datos en informaci�
 El objetivo de este portafolio es demostrar de forma práctica y visible mis habilidades como Analista de Datos, mostrando proyectos donde aplico limpieza de datos, análisis, visualización y comunicación de insights. Cada proyecto refleja mi proceso de análisis, las herramientas utilizadas y el enfoque aplicado para resolver problemas reales.
 
 Me baso en un enfoque analítico, estructurado y orientado a resultados. Me interesa trabajar en proyectos donde los datos apoyen la toma de decisiones estratégicas, manteniendo buenas prácticas, claridad en la comunicación y atención al detalle.
+
+
+## Los proyectos los puede ver en la carpeta "projects"
