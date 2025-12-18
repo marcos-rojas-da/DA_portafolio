@@ -52,4 +52,3 @@ Los resultados indicaron que efectivamente, el clima puede llegar a afectar la d
 El análisis permitió comprender mejor los patrones de uso del sistema de taxis en Chicago y el desempeño de las empresas involucradas.  
 Los resultados obtenidos pueden apoyar la toma de decisiones relacionadas con la optimización del servicio, asignación de 
 recursos y evaluación del impacto de factores externos como el clima.
-
