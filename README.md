@@ -11,5 +11,6 @@ El objetivo de este portafolio es demostrar de forma práctica y visible mis hab
 
 Me baso en un enfoque analítico, estructurado y orientado a resultados. Me interesa trabajar en proyectos donde los datos apoyen la toma de decisiones estratégicas, manteniendo buenas prácticas, claridad en la comunicación y atención al detalle.
 
+LinkedIn: www.linkedin.com/in/marcos-cruz-rojas-da
 
 ## Los proyectos los puede ver en la carpeta "projects"
