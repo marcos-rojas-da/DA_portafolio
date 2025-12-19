@@ -13,7 +13,7 @@ Me baso en un enfoque analítico, estructurado y orientado a resultados. Me inte
 
 ## 📂 Proyectos
 En la carpeta **projects** encontrarás mis proyectos de análisis de datos, donde aplico SQL, Python, EDA y visualización para resolver problemas reales de negocio.
----
+
 
 📫 Contacto  
 - LinkedIn: www.linkedin.com/in/marcos-cruz-rojas-da
