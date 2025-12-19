@@ -11,7 +11,10 @@ El objetivo de este portafolio es demostrar de forma práctica y visible mis hab
 
 Me baso en un enfoque analítico, estructurado y orientado a resultados. Me interesa trabajar en proyectos donde los datos apoyen la toma de decisiones estratégicas, manteniendo buenas prácticas, claridad en la comunicación y atención al detalle.
 
-LinkedIn: www.linkedin.com/in/marcos-cruz-rojas-da
-
 ## 📂 Proyectos
 En la carpeta **projects** encontrarás mis proyectos de análisis de datos, donde aplico SQL, Python, EDA y visualización para resolver problemas reales de negocio.
+
+
+📫 Contacto  
+- LinkedIn: www.linkedin.com/in/marcos-cruz-rojas-da
+- Email: marcos.rojas.da@gmail.com
