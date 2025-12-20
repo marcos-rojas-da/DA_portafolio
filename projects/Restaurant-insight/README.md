@@ -1,4 +1,4 @@
-# Análisis Interactivo de Propinas en Restaurantes
+# Patrones de Consumo y Propinas en Restaurantes
 
 ### Descripción
 Desarrollé un dashboard web interactivo para analizar patrones de comportamiento en propinas de restaurantes,
@@ -33,6 +33,16 @@ _(La aplicación se encuentra alojada en hosting gratuito; el primer acceso pued
 
 ---
 
-[Histográma](image1.png)
-[Gráfico de caja](image2.png)
-[Gráfico de dispersión](image3.png)
+## 🚀 Cómo ejecutar este proyecto (local)
+
+### Clonar el repositorio
+bash
+git clone https://github.com/TU_USUARIO/NOMBRE_REPO.git
+cd NOMBRE_REPO
+
+### PowerShell
+python -m venv venv
+.\venv\Scripts\Activate
+
+### instalar dependencias
+pip install -r requirements.txt
