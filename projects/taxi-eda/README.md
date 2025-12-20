@@ -1,4 +1,4 @@
-# Taxi Trips – Exploratory Data Analysis (Chicago)
+# Factores que Influyen en los Viajes de Taxi en Chicago
 
 ## Objetivo
 Analizar el sistema de taxis en Chicago utilizando datos procesados en Python con el fin de comprender el comportamiento del servicio de transporte.  
@@ -52,3 +52,23 @@ Los resultados indicaron que efectivamente, el clima puede llegar a afectar la d
 El análisis permitió comprender mejor los patrones de uso del sistema de taxis en Chicago y el desempeño de las empresas involucradas.  
 Los resultados obtenidos pueden apoyar la toma de decisiones relacionadas con la optimización del servicio, asignación de 
 recursos y evaluación del impacto de factores externos como el clima.
+
+---
+
+# Indicaciones para descargar el proyecto
+Clona el repositorio a tu terminal 
+git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
+cd NOMBRE_DEL_REPO
+
+### Crea y activa un entorno virtual
+python -m venv venv
+.\venv\Scripts\Activate
+#### Para Mac/Linux:
+python3 -m venv venv
+source venv/bin/activate
+
+### Instala las dependencias
+pip install -r requirements.txt
+
+### Abre el archivo .ipynb (VScode o Jupyter NoteBook)
+
